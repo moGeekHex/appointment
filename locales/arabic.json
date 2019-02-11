@@ -1,0 +1,14 @@
+{
+    "setting": {
+        "screen_title": "الاعدادات",
+        "logout": "تسجيل الخروج",
+        "language": "اللغه"
+    },
+    "add": {
+        "screen_title": "نظم موعد",
+        "title": "Title"
+    },
+    "home": {
+        "screen_title": "الرئيسية"
+    }
+}
